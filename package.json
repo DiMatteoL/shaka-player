@@ -1,0 +1,17 @@
+{
+  "name": "shaka-player",
+  "version": "1.0.0",
+  "description": "Test Streamroot",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Luca Di Matteo",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
